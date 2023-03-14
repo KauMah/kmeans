@@ -1,0 +1,5 @@
+#Kmeans
+
+This repository contains an application of k means on a couple of datasets
+
+The first dataset can be found [here](https://data.cityofnewyork.us/api/views/h9gi-nx95/rows.csv?accessType=DOWNLOAD) and the other is found [here](https://storage.googleapis.com/kagglesdsdata/datasets/2958661/5094772/citibike-stations.csv?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20230314%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230314T050439Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=01b038cf2cadb5b4e4472500a4f4c0aab872ed5386c8aeb7938fa8793afd3c019fb7b1859332504a7f0867e78125aa13666999260a1b58371571ede8191b124e151fec12cc246f201b21a220d19ecb641c8740564c7058f636400899234fc3526bb873bef3a3254672eba8a72ac2b7f40fefdd2656ec0a7ab51fb3753c1b356edb5b51776fabb39c45210b82886675b293e17cb39beb6180c1408936de33ea9f7b43e91df2597cf493328c68c755de9ed27e39761d00d4e539c7ae985e86bf725d296a9c7032d3adb6c67718dc8c3995a29876772ac5b8c186a19f74f33b348db47f8044c50bec5e23f2a9f85e5beb4ccbf6112c5d86b3c0174f0a1c146d9109)
